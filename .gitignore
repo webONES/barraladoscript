@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+/*.tgz
+/*.log
+/test/spec/*/*/dump.js
