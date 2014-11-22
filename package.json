@@ -1,0 +1,27 @@
+{
+  "name": "barraladoscript",
+  "version": "0.1.0",
+  "description": "Lenguaje script para BARRALADEAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "barratest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webONES/barraladoscript.git"
+  },
+  "keywords": [
+    "script",
+    "language",
+    "javascript",
+    "barra",
+    "barralado",
+    "uady"
+  ],
+  "author": "Arandi López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webONES/barraladoscript/issues"
+  },
+  "homepage": "https://github.com/webONES/barraladoscript"
+}
