@@ -8,4 +8,4 @@ BARRALADO es una palabra muy importante en el diario acontecer el Ingeniero de S
 El resto de la cosa esa. LOL
 
 
-Con todo el :heart: por Arandi López.
+Con todo el :heart: por [Arandi López](http://arandilopez.github.io).
