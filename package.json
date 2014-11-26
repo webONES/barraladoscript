@@ -19,6 +19,9 @@
     "uady"
   ],
   "author": "Arandi López",
+  "contributors":[
+    "Arandi López <arandilopez.93@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/webONES/barraladoscript/issues"
