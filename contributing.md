@@ -7,3 +7,4 @@ Consider starting the commit message with an applicable emoji:
 * :fire:`:fire:` when removing code or files
 * :green_heart:`:green_heart:` when fixing the CI build
 * :white_check_mark:`:white_check_mark:` when adding tests
+* :muscle: `:muscle:` when solving an issue
